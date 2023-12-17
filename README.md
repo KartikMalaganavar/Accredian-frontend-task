@@ -2,6 +2,9 @@
 
 # Task 1: Frontend Development
 
+## Demo Site
+Check out the [demo site](https://accredian-assignment.onrender.com/) to see the application in action.
+
 ## Overview
 Created captivating and responsive user interfaces for the login and sign-up forms using React + vite. 
 
